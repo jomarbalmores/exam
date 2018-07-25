@@ -1,0 +1,85 @@
+[
+  {
+    "id": 145,
+    "name": "  Halo halo de iloko ",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/1.jpg",
+    "priceCurrency": "km",
+    "price": 120,
+    "lat": 16.6167,
+    "lng": 120.3197
+  },
+  {
+    "id": 148,
+    "name": "Pugad Resort",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/2.jpg",
+    "priceCurrency": "km",
+    "price": 200,
+    "lat": 16.2833,
+    "lng": 120.4833
+  },
+  {
+    "id": 201,
+    "name": "Bahay na Bato",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/3.jpg",
+    "priceCurrency": "km",
+    "price": 50,
+    "lat": 16.8472,
+    "lng": 120.3517
+  },
+  {
+    "id": 205,
+    "name": "Marand Resort.",
+    "name": "Description may pool po.",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/4.jpg",
+    "priceCurrency": "km",
+    "price": 150,
+    "lat": 16.5264,
+    "lng": 120.3294
+  },
+  {
+    "id": 210,
+    "name": "Splash Wave Resort",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/5.jpg",
+    "priceCurrency": "km",
+    "price": 150,
+    "lat": 16.3188,
+    "lng": 120.4687
+  },
+  {
+    "id": 211,
+    "name": "Kahuna Resort",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/6.jpg",
+    "priceCurrency": "km",
+    "price": 200,
+    "lat": 16.6583,
+    "lng": 120.3216
+  },
+    {
+    "id": 211,
+    "name": "burnham park",
+    "imageUrl": "http://via.news/wp-content/uploads/2017/09/Philippines-Burnham-Park-vianews.jpg",
+    "priceCurrency": "km",
+    "price": 0,
+    "lat": 16.4093,
+    "lng": 120.5950
+  },
+    {
+    "id": 2122,
+    "name": "tangadan falls",
+    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
+    "priceCurrency": "km",
+    "price": 0,
+    "lat": 16.6436,
+    "lng": 120.4488
+  }
+  ,
+    {
+    "id": 2122,
+    "name": "Enchanted Kingdom",
+    "imageUrl": "http://i1193.photobucket.com/albums/aa352/RealAsianBeauty/RealAsianBeauty001/CIMG0095_zpsv0koyogj.jpg",
+    "priceCurrency": "km",
+    "price": 200,
+    "lat": 14.2822,
+    "lng": 121.0967
+  }
+]
